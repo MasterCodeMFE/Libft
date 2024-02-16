@@ -10,13 +10,11 @@
 
 # 42Cursus-Libft
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/317/317316.png" width="20px"/> First project of the 42 Madrid Cursus<br>
-<img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png" width="20px"/> Primer proyecto del Cursus de 42 Madrid
+First project of the 42 Madrid Cursus<br>
 </p>
 <h1>OBJECTIVE</h1>
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/317/317316.png" width="20px"/> The objective of the project is to create your first library in C by recreating existing functions for use in future projects.<br>
-<img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png" width="20px"/> El objetivo del proyecto es crear nuestra primera librería en C recreando funciones ya existentes para usarlas en futuros proyectos.
+The objective of the project is to create your first library in C by recreating existing functions for use in future projects.<br>
 </p>
 
 ## FUNCTIONS TO RECREATE
@@ -103,13 +101,12 @@ Using Malloc
 
 # 42Cursus-Libft
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/317/317316.png" width="20px"/> Primer proyecto del Cursus de 42 Madrid<br>
-<img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png" width="20px"/> First proyect of the 42 Madrid Cursus
+Primer proyecto del Cursus de 42 Madrid<br>
 </p>
 <h1>OBJETIVO</h1>
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/317/317316.png" width="20px"/> El objetivo del proyecto es crear tu primera librería en C recreando funciones ya existentes para usarlas en futuros proyectos.<br>
-<img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png" width="20px"/> The objective of the project is to create our first c library by recreating existing functions for use in future projects.
+El objetivo del proyecto es crear tu primera librería en C recreando funciones ya existentes para usarlas en futuros proyectos.<br>
+
 </p>
 
 ## FUNCIONES A RECREAR
